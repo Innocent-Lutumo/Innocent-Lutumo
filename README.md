@@ -9,7 +9,7 @@ I'm a passionate Web Developer and UI/UX Designer from Dar-es-salaam, creating s
 - 💼 I build responsive and scalable web applications using React, MUI, and Django.
 - 🎨 I design intuitive user interfaces with Figma, blending form and function.
 - 🌱 Currently learning angular.js.
-- ✉️ Contact: innocrng23@gmail.com
+- ✉️ Contact: innocrng23@gmail.com/ 0616580004
 
 ---
 
